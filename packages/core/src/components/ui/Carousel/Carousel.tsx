@@ -24,6 +24,7 @@ function Carousel({
       infiniteMode={false}
       itemsPerPage={isMobile ? 1 : itemsPerPage}
     >
+      testing
       {children}
     </UICarousel>
   )
